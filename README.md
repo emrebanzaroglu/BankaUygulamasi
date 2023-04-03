@@ -12,3 +12,5 @@
 
 
 bir banka projedir.
+
+Not : Tüm yapı tek HTML sayfasında yapılmıştır. İşlemler Bootstrap card yapısında yapılmıştır.
