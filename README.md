@@ -13,4 +13,4 @@
 
 bir banka projedir.
 
-Not : Tüm yapı tek HTML sayfasında yapılmıştır. İşlemler Bootstrap card yapısında yapılmıştır.
+Not : Tüm yapı tek HTML sayfasında yapılmıştır. İşlemler Bootstrap card yapısında yapılmıştır. Fonksiyonlar için JavaScript kullanılmıştır.
